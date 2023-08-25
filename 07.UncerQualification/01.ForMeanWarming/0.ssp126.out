@@ -1,0 +1,1396 @@
+nohup: ignoring input
+ssp126
+ssp126
+01.Dis_of_pc_and_constrainedGSAT.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/': Permission denied
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/': No such file or directory
+(0)	GSAT_Trend_CanESM5_historical_r26i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r27i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r28i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r29i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r30i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r31i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r32i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r33i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r34i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r35i1p1f1  Missing!
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+(0)	GSAT_Trend_GFDL-CM4_historical_missing  Missing!
+(0)	r_PD_GSAT_Trend_All Missing!
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+input in flex scanner failed
+(0)	N=23   NN=23
+(0)	===
+(0)	N=23   NN=23  dimsizes(iw)=23
+
+
+Variable: opt (parameter)
+Type: logical
+Total Size: 4 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+Number Of Attributes: 1
+  rseed3 :	clock
+(0)	True
+
+
+Variable: rcBoot
+Type: float
+Total Size: 400 bytes
+            100 values
+Number of Dimensions: 1
+Dimensions and sizes:	[100]
+Coordinates: 
+Number Of Attributes: 1
+  _FillValue :	1e+20
+(0)	2.282904
+(1)	2.358145
+(2)	2.244318
+(3)	2.472416
+(4)	1.850007
+(5)	2.404507
+(6)	2.521754
+(7)	3.337832
+(8)	2.251669
+(9)	2.428823
+(10)	2.319458
+(11)	1.970154
+(12)	2.151345
+(13)	2.332317
+(14)	3.213017
+(15)	1.067613
+(16)	2.751649
+(17)	2.233104
+(18)	2.204308
+(19)	1.925153
+(20)	1.879058
+(21)	2.542151
+(22)	2.852834
+(23)	3.129557
+(24)	2.151666
+(25)	1.832524
+(26)	2.219889
+(27)	2.103176
+(28)	2.498708
+(29)	2.504992
+(30)	2.978694
+(31)	2.199419
+(32)	2.0506
+(33)	2.502848
+(34)	2.276503
+(35)	2.616844
+(36)	2.426668
+(37)	2.636596
+(38)	2.975722
+(39)	2.25247
+(40)	2.50043
+(41)	2.459423
+(42)	2.718471
+(43)	2.36079
+(44)	2.791421
+(45)	2.447649
+(46)	2.056124
+(47)	1.903116
+(48)	2.150952
+(49)	2.229646
+(50)	2.395307
+(51)	2.524605
+(52)	1.923788
+(53)	2.413738
+(54)	2.437396
+(55)	2.088694
+(56)	2.687634
+(57)	2.436264
+(58)	1.862852
+(59)	2.140858
+(60)	2.879427
+(61)	2.149707
+(62)	2.702435
+(63)	2.25725
+(64)	1.788616
+(65)	2.260009
+(66)	2.068982
+(67)	2.318905
+(68)	2.013007
+(69)	1.810008
+(70)	2.431315
+(71)	1.968558
+(72)	2.036824
+(73)	2.254078
+(74)	2.056964
+(75)	2.594811
+(76)	1.637784
+(77)	2.611342
+(78)	2.351082
+(79)	2.471032
+(80)	2.509857
+(81)	2.474371
+(82)	2.431264
+(83)	1.913035
+(84)	2.364452
+(85)	1.736922
+(86)	2.145243
+(87)	2.319836
+(88)	2.540036
+(89)	2.285191
+(90)	3.135292
+(91)	0.1747864
+(92)	2.659533
+(93)	2.50962
+(94)	2.503762
+(95)	1.931736
+(96)	1.905572
+(97)	2.265467
+(98)	2.467772
+(99)	2.155996
+(0)	N=23   NN=23
+(0)	===
+(0)	N=23   NN=23  dimsizes(iw)=23
+
+
+Variable: opt (parameter)
+Type: logical
+Total Size: 4 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+Number Of Attributes: 1
+  rseed3 :	clock
+(0)	True
+
+
+Variable: rcBoot
+Type: float
+Total Size: 400 bytes
+            100 values
+Number of Dimensions: 1
+Dimensions and sizes:	[100]
+Coordinates: 
+Number Of Attributes: 1
+  _FillValue :	1e+20
+(0)	3.408626
+(1)	3.593252
+(2)	3.281162
+(3)	3.803363
+(4)	2.726495
+(5)	3.719089
+(6)	3.841319
+(7)	5.332174
+(8)	3.372064
+(9)	3.514573
+(10)	3.54666
+(11)	3.002221
+(12)	3.919103
+(13)	3.462349
+(14)	5.5944
+(15)	2.797107
+(16)	4.235533
+(17)	3.852854
+(18)	3.520782
+(19)	3.061636
+(20)	2.777288
+(21)	4.432059
+(22)	4.778154
+(23)	5.116436
+(24)	3.06957
+(25)	2.77734
+(26)	3.386326
+(27)	3.784656
+(28)	4.139106
+(29)	3.594394
+(30)	4.538326
+(31)	3.19877
+(32)	3.547369
+(33)	3.583344
+(34)	3.655953
+(35)	4.080579
+(36)	3.650323
+(37)	4.129343
+(38)	4.693067
+(39)	3.18588
+(40)	3.608532
+(41)	4.133469
+(42)	4.234089
+(43)	3.845243
+(44)	4.311584
+(45)	3.589546
+(46)	3.476794
+(47)	2.976688
+(48)	3.186788
+(49)	3.397968
+(50)	3.462887
+(51)	3.77532
+(52)	3.331244
+(53)	3.480892
+(54)	3.490249
+(55)	3.277654
+(56)	4.364912
+(57)	3.659107
+(58)	3.7844
+(59)	3.060408
+(60)	4.203474
+(61)	3.70202
+(62)	4.085978
+(63)	3.258499
+(64)	2.914333
+(65)	3.318763
+(66)	3.157899
+(67)	3.877041
+(68)	2.917848
+(69)	2.960055
+(70)	3.733968
+(71)	3.198828
+(72)	3.508996
+(73)	3.329493
+(74)	3.360578
+(75)	4.378491
+(76)	2.718739
+(77)	4.107413
+(78)	3.669016
+(79)	3.738492
+(80)	3.710887
+(81)	3.976977
+(82)	3.49648
+(83)	2.985083
+(84)	3.629585
+(85)	2.865087
+(86)	3.500319
+(87)	3.610582
+(88)	3.776821
+(89)	3.365659
+(90)	4.996778
+(91)	1.498493
+(92)	3.866374
+(93)	3.859513
+(94)	3.819294
+(95)	3.011213
+(96)	2.958321
+(97)	4.127281
+(98)	3.835219
+(99)	3.293222
+(0)	N=23   NN=23
+(0)	===
+(0)	N=23   NN=23  dimsizes(iw)=23
+
+
+Variable: opt (parameter)
+Type: logical
+Total Size: 4 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+Number Of Attributes: 1
+  rseed3 :	clock
+(0)	True
+
+
+Variable: rcBoot
+Type: float
+Total Size: 400 bytes
+            100 values
+Number of Dimensions: 1
+Dimensions and sizes:	[100]
+Coordinates: 
+Number Of Attributes: 1
+  _FillValue :	1e+20
+(0)	5.033721
+(1)	4.096769
+(2)	4.224241
+(3)	5.23518
+(4)	3.22713
+(5)	4.20303
+(6)	4.853716
+(7)	6.264634
+(8)	5.380862
+(9)	5.084091
+(10)	4.189898
+(11)	3.789398
+(12)	4.773218
+(13)	4.198115
+(14)	7.188464
+(15)	3.739614
+(16)	5.333142
+(17)	4.722382
+(18)	4.722318
+(19)	5.121454
+(20)	3.530056
+(21)	5.589637
+(22)	5.89581
+(23)	7.11282
+(24)	3.909627
+(25)	2.532101
+(26)	5.179124
+(27)	4.81043
+(28)	5.340148
+(29)	4.95744
+(30)	5.582176
+(31)	5.072632
+(32)	4.148322
+(33)	4.869846
+(34)	4.941652
+(35)	5.154341
+(36)	4.696
+(37)	5.48001
+(38)	5.399575
+(39)	3.853043
+(40)	5.182461
+(41)	5.103631
+(42)	5.954587
+(43)	5.209031
+(44)	5.427886
+(45)	4.56556
+(46)	4.388231
+(47)	3.269545
+(48)	5.212804
+(49)	4.868603
+(50)	4.685113
+(51)	4.572985
+(52)	4.086746
+(53)	4.403928
+(54)	5.157258
+(55)	4.330774
+(56)	6.353501
+(57)	4.598691
+(58)	4.79378
+(59)	4.537722
+(60)	5.694304
+(61)	4.009184
+(62)	5.271215
+(63)	4.380006
+(64)	4.417574
+(65)	4.437099
+(66)	4.613313
+(67)	5.014928
+(68)	3.625852
+(69)	3.545484
+(70)	3.855763
+(71)	4.086169
+(72)	4.117861
+(73)	5.027417
+(74)	3.162591
+(75)	5.380592
+(76)	3.856222
+(77)	5.978494
+(78)	4.65385
+(79)	5.062743
+(80)	4.990775
+(81)	4.92722
+(82)	4.183048
+(83)	4.231453
+(84)	4.660068
+(85)	3.239996
+(86)	4.005953
+(87)	4.651092
+(88)	5.648233
+(89)	4.385054
+(90)	5.677047
+(91)	2.567513
+(92)	4.969131
+(93)	4.573303
+(94)	5.010878
+(95)	4.142319
+(96)	4.171629
+(97)	4.596615
+(98)	5.411595
+(99)	4.594858
+(0)	0.17968
+(1)	0.184166
+(2)	0.156784
+(3)	0.141867
+(0)	Obs STD: 0.0198654
+
+Variable: r_ConstraintModels
+Type: float
+Total Size: 27600 bytes
+            6900 values
+Number of Dimensions: 3
+Dimensions and sizes:	[boot | 100] x [Terms | 3] x [Models | 23]
+Coordinates: 
+            boot: [0..99]
+            Terms: [0..2]
+            Models: [ACCESS-CM2..UKESM1-0-LL]
+Number Of Attributes: 2
+  boot :	0
+  _FillValue :	9.96921e+36
+(0)	$WACCEM/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/Dis_of_pc_and_constrainedGSAT_ssp126_23Models.nc
+
+02.Dis_of_pc1_and_constrainedLocalWarming_Yc1.ncl
+(99,12,13)	1e+20
+(99,12,14)	1e+20
+(99,12,15)	1e+20
+(99,12,16)	1e+20
+(99,12,17)	1e+20
+(99,12,18)	1e+20
+(99,12,19)	1e+20
+(99,12,20)	1e+20
+(99,12,21)	1e+20
+(99,12,22)	1e+20
+(99,12,23)	1e+20
+(99,12,24)	1e+20
+(99,12,25)	1e+20
+(99,12,26)	1e+20
+(99,12,27)	1e+20
+(99,13,0)	1e+20
+(99,13,1)	1e+20
+(99,13,2)	1e+20
+(99,13,3)	1e+20
+(99,13,4)	1e+20
+(99,13,5)	1e+20
+(99,13,6)	1e+20
+(99,13,7)	1e+20
+(99,13,8)	1e+20
+(99,13,9)	1e+20
+(99,13,10)	1e+20
+(99,13,11)	1e+20
+(99,13,12)	1e+20
+(99,13,13)	1e+20
+(99,13,14)	1e+20
+(99,13,15)	1e+20
+(99,13,16)	1e+20
+(99,13,17)	1e+20
+(99,13,18)	1e+20
+(99,13,19)	1e+20
+(99,13,20)	1e+20
+(99,13,21)	1e+20
+(99,13,22)	1e+20
+(99,13,23)	1e+20
+(99,13,24)	1e+20
+(99,13,25)	1e+20
+(99,13,26)	1e+20
+(99,13,27)	1e+20
+(99,14,0)	1e+20
+(99,14,1)	1e+20
+(99,14,2)	1e+20
+(99,14,3)	1e+20
+(99,14,4)	1e+20
+(99,14,5)	1e+20
+(99,14,6)	1e+20
+(99,14,7)	1e+20
+(99,14,8)	1e+20
+(99,14,9)	1e+20
+(99,14,10)	1e+20
+(99,14,11)	1e+20
+(99,14,12)	1e+20
+(99,14,13)	1e+20
+(99,14,14)	1e+20
+(99,14,15)	1e+20
+(99,14,16)	1e+20
+(99,14,17)	1e+20
+(99,14,18)	1e+20
+(99,14,19)	1e+20
+(99,14,20)	1e+20
+(99,14,21)	1e+20
+(99,14,22)	1e+20
+(99,14,23)	1e+20
+(99,14,24)	1e+20
+(99,14,25)	1e+20
+(99,14,26)	1e+20
+(99,14,27)	1e+20
+(99,15,0)	1e+20
+(99,15,1)	1e+20
+(99,15,2)	1e+20
+(99,15,3)	1e+20
+(99,15,4)	1e+20
+(99,15,5)	1e+20
+(99,15,6)	1e+20
+(99,15,7)	1e+20
+(99,15,8)	1e+20
+(99,15,9)	1e+20
+(99,15,10)	1e+20
+(99,15,11)	1e+20
+(99,15,12)	1e+20
+(99,15,13)	1e+20
+(99,15,14)	1e+20
+(99,15,15)	1e+20
+(99,15,16)	1e+20
+(99,15,17)	1e+20
+(99,15,18)	1e+20
+(99,15,19)	1e+20
+(99,15,20)	1e+20
+(99,15,21)	1e+20
+(99,15,22)	1e+20
+(99,15,23)	1e+20
+(99,15,24)	1e+20
+(99,15,25)	1e+20
+(99,15,26)	1e+20
+(99,15,27)	1e+20
+(0)	$WACCEM/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/Dis_of_constrainedLocalWarming_Yc1_ssp126_23Models.nc
+
+03.Dis_of_pc2_and_constrainedLocalWarmingByLocalTrend_Yc2.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/': No such file or directory
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	ResidualTrend_CanESM5_historical_r26i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r27i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r28i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r29i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r30i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r31i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r32i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r33i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r34i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r35i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_GFDL-CM4ssp126
+fatal:Could not create (source_grid_file.nc)
+warning:FileSetFileOption: invalid file or format
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 1646 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 1831 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 3880 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 4010 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 348 in file /global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Code/07.UncerQualification/01.ForMeanWarming/03.Dis_of_pc2_and_constrainedLocalWarmingByLocalTrend_Yc2.ncl
+
+input in flex scanner failed
+
+04.ConEachRealForInterVarEst/01.CorGSAT_AndLocWarmingByScaling_ForEachReal.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/': No such file or directory
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	0.17968
+(1)	0.184166
+(2)	0.156784
+(3)	0.141867
+(0)	Obs STD: 0.0198654
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	ACCESS-CM2Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	ACCESS-ESM1-5Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	AWI-CM-1-1-MRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	BCC-CSM2-MRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	CAMS-CSM1-0Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	GSAT_Trend_CanESM5_historical_r26i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r27i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r28i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r29i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r30i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r31i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r32i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r33i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r34i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r35i1p1f1 Missing!
+(0)	CanESM5Done!
+(0)	
+(0)	r1i1p2f1 Done!
+(0)	r2i1p2f1 Done!
+(0)	r3i1p2f1 Done!
+(0)	CanESM5-CanOEDone!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	CNRM-CM6-1Done!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	CNRM-ESM2-1Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	EC-Earth3Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	EC-Earth3-VegDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	FGOALS-f3-LDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	FGOALS-g3Done!
+(0)	
+(0)	GSAT_Trend_GFDL-CM4_historical_missing Missing!
+(0)	GFDL-CM4Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	GFDL-ESM4Done!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	GISS-E2-1-GDone!
+(0)	
+(0)	r1i1p1f3 Done!
+(0)	HadGEM3-GC31-LLDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	INM-CM4-8Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	IPSL-CM6A-LRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	MIROC6Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	MPI-ESM1-2-LRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	MRI-ESM2-0Done!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	UKESM1-0-LLDone!
+(0)	
+(0)	/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/04.ConEachRealForInterVarEst/InterVarInProj_ssp126_23Models.nc
+04.ConEachRealForInterVarEst/02.FurtherCorrectConstrainedWarming_ForEachReal.ncl
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	min=-18.0049   max=1.75702
+fatal:Subscript out of range, error in subscript #0
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/04.ConEachRealForInterVarEst/FurtherCorrectConstrainedWarming_ForEachReal_ssp126_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/': Permission denied
+(0)	ResidualTrend_historical : min=-0.228428   max=1.04457
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/': Permission denied
+(0)	ConstrainedWarming_STD_ACCESS-CM2_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_ACCESS-ESM1-5_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/': No such file or directory
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r26i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r27i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r28i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r29i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r30i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r31i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r32i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r33i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r34i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp126_r35i1p1f1 Missing!
+(0)	ConstrainedWarming_STD_CanESM5_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_CanESM5-CanOE_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_CNRM-CM6-1_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_CNRM-ESM2-1_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_EC-Earth3_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_EC-Earth3-Veg_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+(0)	ConstrainedWarming_STD_FGOALS-g3_ssp126_AllReal Done!
+(0)	ConstrainedWarmingChina_GFDL-CM4_ssp126_missing Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/': No such file or directory
+(0)	ConstrainedWarming_STD_GISS-E2-1-G_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_IPSL-CM6A-LR_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_MIROC6_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_MPI-ESM1-2-LR_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_MRI-ESM2-0_ssp126_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+input in flex scanner failed
+(0)	ConstrainedWarming_STD_UKESM1-0-LL_ssp126_AllReal Done!
+(0)	/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/04.ConEachRealForInterVarEst/FurtherCorrectConstrainedWarming_ForEachReal_ssp126_23Models.nc
+04.ConEachRealForInterVarEst/03.EstInterVar_fromEachLENS_1000times.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/': Permission denied
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	tas_inDifTerms_CanESM5_ssp126_r26i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r27i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r28i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r29i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r30i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r31i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r32i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r33i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r34i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp126_r35i1p1f1 Missing!
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/': Permission denied
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/': Permission denied
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/': Permission denied
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+input in flex scanner failed
+(0)	CanESM5
+(0)	PD IV:
+(0)	0.053572
+(1)	0.0811035
+(2)	0.11267
+(0)	Proj IV:
+(0)	0.0435089
+(1)	0.049247
+(2)	0.0489682
+(0)	
+(0)	MIROC6
+(0)	PD IV:
+(0)	0.0403769
+(1)	0.0575654
+(2)	0.0789817
+(0)	Proj IV:
+(0)	0.0248256
+(1)	0.0236031
+(2)	0.0265232
+(0)	
+

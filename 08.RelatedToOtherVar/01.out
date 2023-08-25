@@ -1,0 +1,2747 @@
+nohup: ignoring input
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/pr_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/rlus_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/rsds_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/huss/2.5x2.5/AllReal/huss_historical_ACCESS-CM2_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/psl_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/hfls_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/ts/2.5x2.5/AllReal/ts_historical_ACCESS-CM2_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/tasmax_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/huss_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/08.RelatedToOtherVar/ts_Clim_STD_Trend_historical_1981-2014_23Models.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/huss/2.5x2.5/AllReal/huss_historical_CAMS-CSM1-0_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/tasmax/2.5x2.5/AllReal/tasmax_historical_CAMS-CSM1-0_CMIP6_AllReal.nc': No such file or directory
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Models No.: 0, ACCESS-CM2; Exp: historical
+(0)	pr
+(0)	pr_ACCESS-CM2_historical_r1i1p1f1  Missing!
+(0)	pr_ACCESS-CM2_historical_r2i1p1f1  Missing!
+(0)	r3i1p1f1 Done!
+(0)	pr_ACCESS-CM2_historical_r4i1p1f1  Missing!
+(0)	pr_ACCESS-CM2_historical_r5i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	rlus_ACCESS-CM2_historical_r2i1p1f1  Missing!
+(0)	r3i1p1f1 Done!
+(0)	rlus_ACCESS-CM2_historical_r4i1p1f1  Missing!
+(0)	rlus_ACCESS-CM2_historical_r5i1p1f1  Missing!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	rsds_ACCESS-CM2_historical_r4i1p1f1  Missing!
+(0)	rsds_ACCESS-CM2_historical_r5i1p1f1  Missing!
+(0)	
+(0)	huss
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/huss/2.5x2.5/AllReal/huss_historical_ACCESS-CM2_CMIP6_AllReal.nc  Missing!
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	psl_ACCESS-CM2_historical_r2i1p1f1  Missing!
+(0)	psl_ACCESS-CM2_historical_r3i1p1f1  Missing!
+(0)	psl_ACCESS-CM2_historical_r4i1p1f1  Missing!
+(0)	psl_ACCESS-CM2_historical_r5i1p1f1  Missing!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	hfls_ACCESS-CM2_historical_r3i1p1f1  Missing!
+(0)	hfls_ACCESS-CM2_historical_r4i1p1f1  Missing!
+(0)	hfls_ACCESS-CM2_historical_r5i1p1f1  Missing!
+(0)	
+(0)	ts
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/ts/2.5x2.5/AllReal/ts_historical_ACCESS-CM2_CMIP6_AllReal.nc  Missing!
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	tasmax_ACCESS-CM2_historical_r2i1p1f1  Missing!
+(0)	tasmax_ACCESS-CM2_historical_r3i1p1f1  Missing!
+(0)	tasmax_ACCESS-CM2_historical_r4i1p1f1  Missing!
+(0)	tasmax_ACCESS-CM2_historical_r5i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 1, ACCESS-ESM1-5; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	pr_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	pr_ACCESS-ESM1-5_historical_r3i1p1f1  Missing!
+(0)	r4i1p1f1 Done!
+(0)	pr_ACCESS-ESM1-5_historical_r5i1p1f1  Missing!
+(0)	pr_ACCESS-ESM1-5_historical_r6i1p1f1  Missing!
+(0)	pr_ACCESS-ESM1-5_historical_r7i1p1f1  Missing!
+(0)	r8i1p1f1 Done!
+(0)	pr_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	pr_ACCESS-ESM1-5_historical_r10i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	rlus_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	rlus_ACCESS-ESM1-5_historical_r7i1p1f1  Missing!
+(0)	rlus_ACCESS-ESM1-5_historical_r8i1p1f1  Missing!
+(0)	rlus_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	rlus_ACCESS-ESM1-5_historical_r10i1p1f1  Missing!
+(0)	
+(0)	rsds
+(0)	rsds_ACCESS-ESM1-5_historical_r1i1p1f1  Missing!
+(0)	rsds_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	rsds_ACCESS-ESM1-5_historical_r3i1p1f1  Missing!
+(0)	rsds_ACCESS-ESM1-5_historical_r4i1p1f1  Missing!
+(0)	r5i1p1f1 Done!
+(0)	rsds_ACCESS-ESM1-5_historical_r6i1p1f1  Missing!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	rsds_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	rsds_ACCESS-ESM1-5_historical_r10i1p1f1  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	huss_ACCESS-ESM1-5_historical_r3i1p1f1  Missing!
+(0)	huss_ACCESS-ESM1-5_historical_r4i1p1f1  Missing!
+(0)	huss_ACCESS-ESM1-5_historical_r5i1p1f1  Missing!
+(0)	huss_ACCESS-ESM1-5_historical_r6i1p1f1  Missing!
+(0)	r7i1p1f1 Done!
+(0)	huss_ACCESS-ESM1-5_historical_r8i1p1f1  Missing!
+(0)	huss_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	psl_ACCESS-ESM1-5_historical_r1i1p1f1  Missing!
+(0)	psl_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	psl_ACCESS-ESM1-5_historical_r5i1p1f1  Missing!
+(0)	psl_ACCESS-ESM1-5_historical_r6i1p1f1  Missing!
+(0)	psl_ACCESS-ESM1-5_historical_r7i1p1f1  Missing!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	hfls_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	hfls_ACCESS-ESM1-5_historical_r3i1p1f1  Missing!
+(0)	r4i1p1f1 Done!
+(0)	hfls_ACCESS-ESM1-5_historical_r5i1p1f1  Missing!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	hfls_ACCESS-ESM1-5_historical_r8i1p1f1  Missing!
+(0)	hfls_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	hfls_ACCESS-ESM1-5_historical_r10i1p1f1  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	ts_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	r3i1p1f1 Done!
+(0)	ts_ACCESS-ESM1-5_historical_r4i1p1f1  Missing!
+(0)	ts_ACCESS-ESM1-5_historical_r5i1p1f1  Missing!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	ts_ACCESS-ESM1-5_historical_r8i1p1f1  Missing!
+(0)	ts_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	ts_ACCESS-ESM1-5_historical_r10i1p1f1  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	tasmax_ACCESS-ESM1-5_historical_r2i1p1f1  Missing!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	tasmax_ACCESS-ESM1-5_historical_r7i1p1f1  Missing!
+(0)	tasmax_ACCESS-ESM1-5_historical_r8i1p1f1  Missing!
+(0)	tasmax_ACCESS-ESM1-5_historical_r9i1p1f1  Missing!
+(0)	tasmax_ACCESS-ESM1-5_historical_r10i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 2, AWI-CM-1-1-MR; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 3, BCC-CSM2-MR; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 4, CAMS-CSM1-0; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/huss/2.5x2.5/AllReal/huss_historical_CAMS-CSM1-0_CMIP6_AllReal.nc  Missing!
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/tasmax/2.5x2.5/AllReal/tasmax_historical_CAMS-CSM1-0_CMIP6_AllReal.nc  Missing!
+(0)	
+(0)	Models No.: 5, CNRM-CM6-1; Exp: historical
+(0)	pr
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	pr_CNRM-CM6-1_historical_r23i1p1f2  Missing!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	r23i1p1f2 Done!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	r23i1p1f2 Done!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	r23i1p1f2 Done!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	r23i1p1f2 Done!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	hfls_CNRM-CM6-1_historical_r23i1p1f2  Missing!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	ts_CNRM-CM6-1_historical_r23i1p1f2  Missing!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r13i1p1f2 Done!
+(0)	r14i1p1f2 Done!
+(0)	r15i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	r20i1p1f2 Done!
+(0)	r21i1p1f2 Done!
+(0)	r22i1p1f2 Done!
+(0)	r23i1p1f2 Done!
+(0)	r24i1p1f2 Done!
+(0)	r25i1p1f2 Done!
+(0)	r26i1p1f2 Done!
+(0)	r27i1p1f2 Done!
+(0)	r28i1p1f2 Done!
+(0)	r29i1p1f2 Done!
+(0)	r30i1p1f2 Done!
+(0)	
+(0)	
+(0)	Models No.: 6, CNRM-ESM2-1; Exp: historical
+(0)	pr
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	pr_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	pr_CNRM-ESM2-1_historical_r11i1p1f2  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	rlus_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	rsds_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	rsds_CNRM-ESM2-1_historical_r11i1p1f2  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	huss_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	huss_CNRM-ESM2-1_historical_r11i1p1f2  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	psl_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	hfls_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	hfls_CNRM-ESM2-1_historical_r11i1p1f2  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	ts_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	ts_CNRM-ESM2-1_historical_r11i1p1f2  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	tasmax_CNRM-ESM2-1_historical_r6i1p1f2  Missing!
+(0)	r7i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	
+(0)	Models No.: 7, CanESM5; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	pr_CanESM5_historical_r26i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r27i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r28i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r29i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r30i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r31i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r32i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r33i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r34i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r35i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r36i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r37i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r38i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r39i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r40i1p1f1  Missing!
+(0)	pr_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	rlus_CanESM5_historical_r26i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r27i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r28i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r29i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r30i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r31i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r32i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r33i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r34i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r35i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r36i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r37i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r38i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r39i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r40i1p1f1  Missing!
+(0)	rlus_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	rsds_CanESM5_historical_r26i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r27i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r28i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r29i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r30i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r31i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r32i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r33i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r34i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r35i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r36i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r37i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r38i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r39i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r40i1p1f1  Missing!
+(0)	rsds_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	huss_CanESM5_historical_r26i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r27i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r28i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r29i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r30i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r31i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r32i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r33i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r34i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r35i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r36i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r37i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r38i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r39i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r40i1p1f1  Missing!
+(0)	huss_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	psl_CanESM5_historical_r26i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r27i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r28i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r29i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r30i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r31i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r32i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r33i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r34i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r35i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r36i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r37i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r38i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r39i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r40i1p1f1  Missing!
+(0)	psl_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	hfls_CanESM5_historical_r26i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r27i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r28i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r29i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r30i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r31i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r32i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r33i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r34i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r35i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r36i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r37i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r38i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r39i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r40i1p1f1  Missing!
+(0)	hfls_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	ts_CanESM5_historical_r26i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r27i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r28i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r29i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r30i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r31i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r32i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r33i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r34i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r35i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r36i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r37i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r38i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r39i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r40i1p1f1  Missing!
+(0)	ts_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	tasmax_CanESM5_historical_r26i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r27i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r28i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r29i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r30i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r31i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r32i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r33i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r34i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r35i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r36i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r37ils: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/pr/2.5x2.5/AllReal/pr_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rlus/2.5x2.5/AllReal/rlus_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rsds/2.5x2.5/AllReal/rsds_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/huss/2.5x2.5/AllReal/huss_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/psl/2.5x2.5/AllReal/psl_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/hfls/2.5x2.5/AllReal/hfls_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/ts/2.5x2.5/AllReal/ts_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/tasmax/2.5x2.5/AllReal/tasmax_historical_CanESM5-CanOE_CMIP6_AllReal.nc': No such file or directory
+1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r38i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r39i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r40i1p1f1  Missing!
+(0)	tasmax_CanESM5_historical_r41i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 8, CanESM5-CanOE; Exp: historical
+(0)	pr
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/pr/2.5x2.5/AllReal/pr_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	rlus
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rlus/2.5x2.5/AllReal/rlus_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	rsds
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rsds/2.5x2.5/AllReal/rsds_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	huss
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/huss/2.5x2.5/AllReal/huss_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	psl
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/psl/2.5x2.5/AllReal/psl_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	hfls
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/hfls/2.5x2.5/AllReal/hfls_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	ts
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/ts/2.5x2.5/AllReal/ts_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	tasmax
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/tasmax/2.5x2.5/AllReal/tasmax_historical_CanESM5-CanOE_CMIP6_AllReal.nc  Missing!
+(0)	
+(0)	Models No.: 9, EC-Earth3; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	pr_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	pr_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	pr_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	rlus_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	rlus_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	rlus_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	rsds_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	rsds_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	rsds_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	huss_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	huss_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	huss_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	psl_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	psl_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	psl_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	hfls_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	hfls_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	hfls_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	ts_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	ts_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	ts_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	tasmax_EC-Earth3_historical_r2i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r3i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r4i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r6i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r7i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r9i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r10i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r11i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r12i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r13i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r14i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r15i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r16i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r17i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r18i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r19i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r20i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r21i1p1f1  Missing!
+(0)	r22i1p1f1 Done!
+(0)	tasmax_EC-Earth3_historical_r23i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r24i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r25i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r101i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r102i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r103i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r104i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r105i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r106i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r107i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r108i1p1f1  Missing!
+(0)	tasmax_EC-Earth3_historical_r109i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 10, EC-Earth3-Veg; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	pr_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	pr_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	pr_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	pr_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	pr_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	pr_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	pr_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	rlus_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	rlus_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	rlus_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	rlus_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	rlus_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	rlus_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	rlus_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	rsds_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	rsds_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	rsds_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	rsds_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	rsds_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	rsds_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	rsds_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	huss_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	huss_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	huss_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	huss_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	huss_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	huss_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	huss_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	psl_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	psl_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	psl_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	psl_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	psl_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	psl_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	psl_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	hfls_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	hfls_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	hfls_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	hfls_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	hfls_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	hfls_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	hfls_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	ts_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	ts_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	ts_EC-Earth3-Veg_historls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/tasmax/2.5x2.5/AllReal/tasmax_historical_FGOALS-f3-L_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rlus/2.5x2.5/AllReal/rlus_historical_GFDL-ESM4_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rsds/2.5x2.5/AllReal/rsds_historical_GFDL-ESM4_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/hfls/2.5x2.5/AllReal/hfls_historical_GFDL-ESM4_CMIP6_AllReal.nc': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/CMIP/NASA-GISS/GISS-E2-1-G/historical/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/CMIP/INM/INM-CM4-8/historical/': No such file or directory
+ical_r4i1p1f1  Missing!
+(0)	ts_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	ts_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	ts_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	ts_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	tasmax_EC-Earth3-Veg_historical_r2i1p1f1  Missing!
+(0)	tasmax_EC-Earth3-Veg_historical_r3i1p1f1  Missing!
+(0)	tasmax_EC-Earth3-Veg_historical_r4i1p1f1  Missing!
+(0)	tasmax_EC-Earth3-Veg_historical_r5i1p1f1  Missing!
+(0)	tasmax_EC-Earth3-Veg_historical_r6i1p1f1  Missing!
+(0)	tasmax_EC-Earth3-Veg_historical_r12i1p1f1  Missing!
+(0)	tasmax_EC-Earth3-Veg_historical_r14i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 11, FGOALS-f3-L; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/tasmax/2.5x2.5/AllReal/tasmax_historical_FGOALS-f3-L_CMIP6_AllReal.nc  Missing!
+(0)	
+(0)	Models No.: 12, FGOALS-g3; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 13, GFDL-CM4; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 14, GFDL-ESM4; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	pr_GFDL-ESM4_historical_r2i1p1f1  Missing!
+(0)	pr_GFDL-ESM4_historical_r3i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rlus/2.5x2.5/AllReal/rlus_historical_GFDL-ESM4_CMIP6_AllReal.nc  Missing!
+(0)	rsds
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/rsds/2.5x2.5/AllReal/rsds_historical_GFDL-ESM4_CMIP6_AllReal.nc  Missing!
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	huss_GFDL-ESM4_historical_r2i1p1f1  Missing!
+(0)	huss_GFDL-ESM4_historical_r3i1p1f1  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	psl_GFDL-ESM4_historical_r2i1p1f1  Missing!
+(0)	psl_GFDL-ESM4_historical_r3i1p1f1  Missing!
+(0)	
+(0)	hfls
+(0)	/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/hfls/2.5x2.5/AllReal/hfls_historical_GFDL-ESM4_CMIP6_AllReal.nc  Missing!
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	ts_GFDL-ESM4_historical_r2i1p1f1  Missing!
+(0)	ts_GFDL-ESM4_historical_r3i1p1f1  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	tasmax_GFDL-ESM4_historical_r2i1p1f1  Missing!
+(0)	tasmax_GFDL-ESM4_historical_r3i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 15, GISS-E2-1-G; Exp: historical
+(0)	pr
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	pr_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	pr_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	rlus_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	rlus_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	rsds_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	rsds_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	huss_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	huss_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	psl_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	psl_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	hfls_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	hfls_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	ts_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	ts_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	tasmax_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	tasmax_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	
+(0)	
+(0)	Models No.: 16, HadGEM3-GC31-LL; Exp: historical
+(0)	pr
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	pr_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	rlus_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	rsds
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	rsds_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	huss_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	psl_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	hfls
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	hfls_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	ts_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f3 Done!
+(0)	r2i1p1f3 Done!
+(0)	r3i1p1f3 Done!
+(0)	r4i1p1f3 Done!
+(0)	tasmax_HadGEM3-GC31-LL_historical_r5i1p1f3  Missing!
+(0)	
+(0)	
+(0)	Models No.: 17, INM-CM4-8; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 18, IPSL-CM6A-LR; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	r32i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 19, MIROC6; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	pr_MIROC6_historical_r11i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r12i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r13i1p1f1  Missing!
+(0)	r14i1p1f1 Done!
+(0)	pr_MIROC6_historical_r15i1p1f1  Missing!
+(0)	r16i1p1f1 Done!
+(0)	pr_MIROC6_historical_r17i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r18i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r19i1p1f1  Missing!
+(0)	r20i1p1f1 Done!
+(0)	pr_MIROC6_historical_r21i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r22i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r23i1p1f1  Missing!
+(0)	r24i1p1f1 Done!
+(0)	pr_MIROC6_historical_r25i1p1f1  Missing!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	pr_MIROC6_historical_r28i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r29i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r30i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r31i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r32i1p1f1  Missing!
+(0)	r33i1p1f1 Done!
+(0)	pr_MIROC6_historical_r34i1p1f1  Missing!
+(0)	r35i1p1f1 Done!
+(0)	pr_MIROC6_historical_r36i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r37i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r38i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r39i1p1f1  Missing!
+(0)	r40i1p1f1 Done!
+(0)	r41i1p1f1 Done!
+(0)	r42i1p1f1 Done!
+(0)	pr_MIROC6_historical_r43i1p1f1  Missing!
+(0)	r44i1p1f1 Done!
+(0)	pr_MIROC6_historical_r45i1p1f1  Missing!
+(0)	pr_MIROC6_historical_r46i1p1f1  Missing!
+(0)	r47i1p1f1 Done!
+(0)	pr_MIROC6_historical_r48i1p1f1  Missing!
+(0)	r49i1p1f1 Done!
+(0)	pr_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r11i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r12i1p1f1  Missing!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r16i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r17i1p1f1  Missing!
+(0)	r18i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r19i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r20i1p1f1  Missing!
+(0)	r21i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r22i1p1f1  Missing!
+(0)	r23i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r24i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r25i1p1f1  Missing!
+(0)	r26i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r27i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r28i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r29i1p1f1  Missing!
+(0)	r30i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r31i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r32i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r33i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r34i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r35i1p1f1  Missing!
+(0)	r36i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r37i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r38i1p1f1  Missing!
+(0)	r39i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r40i1p1f1  Missing!
+(0)	r41i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r42i1p1f1  Missing!
+(0)	r43i1p1f1 Done!
+(0)	r44i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r45i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r46i1p1f1  Missing!
+(0)	r47i1p1f1 Done!
+(0)	rlus_MIROC6_historical_r48i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r49i1p1f1  Missing!
+(0)	rlus_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r12i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r13i1p1f1  Missing!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r16i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r17i1p1f1  Missing!
+(0)	r18i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r19i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r20i1p1f1  Missing!
+(0)	r21i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r22i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r23i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r24i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r25i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r26i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r27i1p1f1  Missing!
+(0)	r28i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r29i1p1f1  Missing!
+(0)	r30i1p1f1 Done!
+(0)	r31i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r32i1p1f1  Missing!
+(0)	r33i1p1f1 Done!
+(0)	r34i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r35i1p1f1  Missing!
+(0)	r36i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r37i1p1f1  Missing!
+(0)	rsds_MIROC6_historical_r38i1p1f1  Missing!
+(0)	r39i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r40i1p1f1  Missing!
+(0)	r41i1p1f1 Done!
+(0)	r42i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r43i1p1f1  Missing!
+(0)	r44i1p1f1 Done!
+(0)	r45i1p1f1 Done!
+(0)	r46i1p1f1 Done!
+(0)	r47i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r48i1p1f1  Missing!
+(0)	r49i1p1f1 Done!
+(0)	rsds_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	huss_MIROC6_historical_r11i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r12i1p1f1  Missing!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	huss_MIROC6_historical_r17i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r18i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r19i1p1f1  Missing!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	huss_MIROC6_historical_r23i1p1f1  Missing!
+(0)	r24i1p1f1 Done!
+(0)	huss_MIROC6_historical_r25i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r26i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r27i1p1f1  Missing!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	huss_MIROC6_historical_r30i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r31i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r32i1p1f1  Missing!
+(0)	r33i1p1f1 Done!
+(0)	huss_MIROC6_historical_r34i1p1f1  Missing!
+(0)	r35i1p1f1 Done!
+(0)	huss_MIROC6_historical_r36i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r37i1p1f1  Missing!
+(0)	r38i1p1f1 Done!
+(0)	huss_MIROC6_historical_r39i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r40i1p1f1  Missing!
+(0)	r41i1p1f1 Done!
+(0)	huss_MIROC6_historical_r42i1p1f1  Missing!
+(0)	r43i1p1f1 Done!
+(0)	huss_MIROC6_historical_r44i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r45i1p1f1  Missing!
+(0)	r46i1p1f1 Done!
+(0)	r47i1p1f1 Done!
+(0)	r48i1p1f1 Done!
+(0)	huss_MIROC6_historical_r49i1p1f1  Missing!
+(0)	huss_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	psl_MIROC6_historical_r11i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r12i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r13i1p1f1  Missing!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	psl_MIROC6_historical_r17i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r18i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r19i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r20i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r21i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r22i1p1f1  Missing!
+(0)	r23i1p1f1 Done!
+(0)	psl_MIROC6_historical_r24i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r25i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r26i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r27i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r28i1p1f1  Missing!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	psl_MIROC6_historical_r31i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r32i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r33i1p1f1  Missing!
+(0)	r34i1p1f1 Done!
+(0)	r35i1p1f1 Done!
+(0)	psl_MIROC6_historical_r36i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r37i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r38i1p1f1  Missing!
+(0)	r39i1p1f1 Done!
+(0)	psl_MIROC6_historical_r40i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r41i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r42i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r43i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r44i1p1f1  Missing!
+(0)	r45i1p1f1 Done!
+(0)	psl_MIROC6_historical_r46i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r47i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r48i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r49i1p1f1  Missing!
+(0)	psl_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r11i1p1f1  Missing!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r14i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r15i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r16i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r17i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r18i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r19i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r20i1p1f1  Missing!
+(0)	r21i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r22i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r23i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r24i1p1f1  Missing!
+(0)	r25i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r26i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r27i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r28i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r29i1p1f1  Missing!
+(0)	r30i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r31i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r32i1p1f1  Missing!
+(0)	r33i1p1f1 Done!
+(0)	r34i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r35i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r36i1p1f1  Missing!
+(0)	r37i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r38i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r39i1p1f1  Missing!
+(0)	hfls_MIROC6_historical_r40i1p1f1  Missing!
+(0)	r41i1p1f1 Done!
+(0)	r42i1p1f1 Done!
+(0)	r43i1p1f1 Done!
+(0)	r44i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r45i1p1f1  Missing!
+(0)	r46i1p1f1 Done!
+(0)	r47i1p1f1 Done!
+(0)	r48i1p1f1 Done!
+(0)	r49i1p1f1 Done!
+(0)	hfls_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	ts_MIROC6_historical_r12i1p1f1  Missing!
+(0)	r13i1p1f1 Done!
+(0)	ts_MIROC6_historical_r14i1p1f1  Missing!
+(0)	r15i1p1f1 Done!
+(0)	ts_MIROC6_historical_r16i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r17i1p1f1  Missing!
+(0)	r18i1p1f1 Done!
+(0)	ts_MIROC6_historical_r19i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r20i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r21i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r22i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r23i1p1f1  Missing!
+(0)	r24i1p1f1 Done!
+(0)	ts_MIROC6_historical_r25i1p1f1  Missing!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	ts_MIROC6_historical_r28i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r29i1p1f1  Missing!
+(0)	r30i1p1f1 Done!
+(0)	ts_MIROC6_historical_r31i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r32i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r33i1p1f1  Missing!
+(0)	r34i1p1f1 Done!
+(0)	ts_MIROC6_historical_r35i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r36i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r37i1p1f1  Missing!
+(0)	r38i1p1f1 Done!
+(0)	ts_MIROC6_historical_r39i1p1f1  Missing!
+(0)	r40i1p1f1 Done!
+(0)	ts_MIROC6_historical_r41i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r42i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r43i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r44i1p1f1  Missing!
+(0)	r45i1p1f1 Done!
+(0)	ts_MIROC6_historical_r46i1p1f1  Missing!
+(0)	r47i1p1f1 Done!
+(0)	ts_MIROC6_historical_r48i1p1f1  Missing!
+(0)	ts_MIROC6_historical_r49i1p1f1  Missing!
+(0)	ts_MIROC6_hinput in flex scanner failed
+istorical_r50i1p1f1  Missing!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r12i1p1f1  Missing!
+(0)	r13i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r14i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r15i1p1f1  Missing!
+(0)	r16i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r17i1p1f1  Missing!
+(0)	r18i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r19i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r20i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r21i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r22i1p1f1  Missing!
+(0)	r23i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r24i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r25i1p1f1  Missing!
+(0)	r26i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r27i1p1f1  Missing!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r30i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r31i1p1f1  Missing!
+(0)	r32i1p1f1 Done!
+(0)	r33i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r34i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r35i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r36i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r37i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r38i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r39i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r40i1p1f1  Missing!
+(0)	r41i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r42i1p1f1  Missing!
+(0)	tasmax_MIROC6_historical_r43i1p1f1  Missing!
+(0)	r44i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r45i1p1f1  Missing!
+(0)	r46i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r47i1p1f1  Missing!
+(0)	r48i1p1f1 Done!
+(0)	r49i1p1f1 Done!
+(0)	tasmax_MIROC6_historical_r50i1p1f1  Missing!
+(0)	
+(0)	
+(0)	Models No.: 20, MPI-ESM1-2-LR; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 21, MRI-ESM2-0; Exp: historical
+(0)	pr
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	
+(0)	
+(0)	Models No.: 22, UKESM1-0-LL; Exp: historical
+(0)	pr
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	rlus
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	rsds
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	huss
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	psl
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	hfls
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	ts
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	tasmax
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f3 Done!
+(0)	r6i1p1f3 Done!
+(0)	r7i1p1f3 Done!
+(0)	r8i1p1f2 Done!
+(0)	r9i1p1f2 Done!
+(0)	r10i1p1f2 Done!
+(0)	r11i1p1f2 Done!
+(0)	r12i1p1f2 Done!
+(0)	r16i1p1f2 Done!
+(0)	r17i1p1f2 Done!
+(0)	r18i1p1f2 Done!
+(0)	r19i1p1f2 Done!
+(0)	
+(0)	

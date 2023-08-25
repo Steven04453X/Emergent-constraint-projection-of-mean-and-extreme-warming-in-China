@@ -1,0 +1,974 @@
+nohup: ignoring input
+ssp370
+ssp370
+01.Dis_of_pc_and_constrainedGSAT.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp370/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp370/': Permission denied
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp370/': No such file or directory
+(0)	GSAT_Trend_CanESM5_historical_r26i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r27i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r28i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r29i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r30i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r31i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r32i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r33i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r34i1p1f1  Missing!
+(0)	GSAT_Trend_CanESM5_historical_r35i1p1f1  Missing!
+(0)	GMSAT_EC-Earth3-Veg_ssp370_r2i1p1f1  Missing!
+(0)	GMSAT_EC-Earth3-Veg_ssp370_r4i1p1f1  Missing!
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+(0)	GSAT_Trend_GFDL-CM4_historical_missing  Missing!
+(0)	r_PD_GSAT_Trend_All Missing!
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+(0)	GSAT_Trend_GISS-E2-1-G_historical_r8i1p1f2  Missing!
+(0)	GSAT_Trend_GISS-E2-1-G_historical_r9i1p1f2  Missing!
+(0)	GSAT_Trend_HadGEM3-GC31-LL_historical_missing  Missing!
+(0)	r_PD_GSAT_Trend_All Missing!
+warning:Dimension (0) has not been defined
+input in flex scanner failed
+(0)	N=23   NN=23
+(0)	===
+(0)	N=23   NN=23  dimsizes(iw)=23
+
+
+Variable: opt (parameter)
+Type: logical
+Total Size: 4 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+Number Of Attributes: 1
+  rseed3 :	clock
+(0)	True
+
+
+Variable: rcBoot
+Type: float
+Total Size: 400 bytes
+            100 values
+Number of Dimensions: 1
+Dimensions and sizes:	[100]
+Coordinates: 
+Number Of Attributes: 1
+  _FillValue :	1e+20
+(0)	3.169611
+(1)	2.976901
+(2)	2.430999
+(3)	3.206725
+(4)	2.273474
+(5)	2.441425
+(6)	2.523205
+(7)	3.354627
+(8)	2.841264
+(9)	2.719653
+(10)	3.088283
+(11)	3.204539
+(12)	3.916329
+(13)	3.393468
+(14)	3.002119
+(15)	2.754749
+(16)	2.377582
+(17)	2.940323
+(18)	1.859448
+(19)	2.947423
+(20)	3.136287
+(21)	1.6683
+(22)	2.864885
+(23)	2.397081
+(24)	2.919303
+(25)	2.609359
+(26)	2.750192
+(27)	2.962613
+(28)	3.181175
+(29)	2.886955
+(30)	3.01808
+(31)	2.642784
+(32)	3.097178
+(33)	2.90345
+(34)	3.157423
+(35)	3.131606
+(36)	2.994813
+(37)	3.120719
+(38)	2.725303
+(39)	3.156777
+(40)	3.119866
+(41)	3.271942
+(42)	2.943875
+(43)	3.304146
+(44)	2.395573
+(45)	3.088608
+(46)	3.320645
+(47)	2.649704
+(48)	3.242069
+(49)	2.056359
+(50)	3.039242
+(51)	2.904787
+(52)	2.993913
+(53)	3.497043
+(54)	2.867337
+(55)	2.46505
+(56)	2.583424
+(57)	3.004034
+(58)	2.850629
+(59)	2.96206
+(60)	2.737118
+(61)	2.956236
+(62)	1.659488
+(63)	2.397673
+(64)	2.965208
+(65)	2.940506
+(66)	3.508432
+(67)	3.376255
+(68)	2.316401
+(69)	3.259183
+(70)	2.863629
+(71)	3.18255
+(72)	2.086127
+(73)	2.587244
+(74)	3.725248
+(75)	3.037389
+(76)	3.290926
+(77)	3.335397
+(78)	2.915517
+(79)	3.303207
+(80)	2.188513
+(81)	1.913203
+(82)	2.610352
+(83)	2.945408
+(84)	2.766734
+(85)	2.67728
+(86)	2.522941
+(87)	3.121316
+(88)	2.731385
+(89)	2.500367
+(90)	3.08124
+(91)	2.335423
+(92)	3.400338
+(93)	2.319051
+(94)	2.661564
+(95)	2.819622
+(96)	2.688727
+(97)	2.289945
+(98)	2.979007
+(99)	1.855097
+(0)	N=23   NN=23
+(0)	===
+(0)	N=23   NN=23  dimsizes(iw)=23
+
+
+Variable: opt (parameter)
+Type: logical
+Total Size: 4 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+Number Of Attributes: 1
+  rseed3 :	clock
+(0)	True
+
+
+Variable: rcBoot
+Type: float
+Total Size: 400 bytes
+            100 values
+Number of Dimensions: 1
+Dimensions and sizes:	[100]
+Coordinates: 
+Number Of Attributes: 1
+  _FillValue :	1e+20
+(0)	5.890876
+(1)	5.440926
+(2)	4.920517
+(3)	4.915629
+(4)	6.135518
+(5)	4.533751
+(6)	4.908792
+(7)	5.303318
+(8)	5.270341
+(9)	5.279278
+(10)	3.066501
+(11)	6.489989
+(12)	6.045493
+(13)	5.647331
+(14)	3.796934
+(15)	4.728099
+(16)	5.941787
+(17)	5.047324
+(18)	5.742798
+(19)	5.199574
+(20)	5.41023
+(21)	5.055722
+(22)	5.439995
+(23)	4.983469
+(24)	5.357372
+(25)	5.717028
+(26)	5.390173
+(27)	5.429299
+(28)	5.186239
+(29)	4.23945
+(30)	5.989649
+(31)	5.300829
+(32)	5.080141
+(33)	6.038817
+(34)	6.100795
+(35)	6.143258
+(36)	5.48631
+(37)	4.822931
+(38)	5.855353
+(39)	2.455905
+(40)	5.581596
+(41)	3.303072
+(42)	5.523259
+(43)	5.141661
+(44)	5.096862
+(45)	3.851529
+(46)	5.454535
+(47)	5.520921
+(48)	5.886711
+(49)	4.180396
+(50)	4.88514
+(51)	4.201453
+(52)	5.006663
+(53)	5.826943
+(54)	4.241484
+(55)	4.956009
+(56)	4.12529
+(57)	4.534462
+(58)	5.927338
+(59)	4.878086
+(60)	5.295021
+(61)	5.300769
+(62)	5.338261
+(63)	4.863188
+(64)	4.350171
+(65)	5.0196
+(66)	4.158567
+(67)	5.313932
+(68)	4.544549
+(69)	5.681447
+(70)	5.090611
+(71)	5.113122
+(72)	6.053946
+(73)	5.202499
+(74)	5.727993
+(75)	5.535614
+(76)	6.300643
+(77)	3.052786
+(78)	4.882864
+(79)	4.62008
+(80)	5.083343
+(81)	4.089884
+(82)	4.466841
+(83)	5.593668
+(84)	6.717675
+(85)	6.018467
+(86)	4.921648
+(87)	5.089374
+(88)	4.974421
+(89)	5.241773
+(90)	4.436919
+(91)	2.660328
+(92)	5.86103
+(93)	4.617701
+(94)	5.040733
+(95)	5.086277
+(96)	5.818345
+(97)	4.971879
+(98)	5.587899
+(99)	5.735305
+(0)	N=23   NN=23
+(0)	===
+(0)	N=23   NN=23  dimsizes(iw)=23
+
+
+Variable: opt (parameter)
+Type: logical
+Total Size: 4 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+Number Of Attributes: 1
+  rseed3 :	clock
+(0)	True
+
+
+Variable: rcBoot
+Type: float
+Total Size: 400 bytes
+            100 values
+Number of Dimensions: 1
+Dimensions and sizes:	[100]
+Coordinates: 
+Number Of Attributes: 1
+  _FillValue :	1e+20
+(0)	11.88056
+(1)	10.48106
+(2)	10.75424
+(3)	9.412088
+(4)	12.20481
+(5)	8.930876
+(6)	10.0144
+(7)	11.45607
+(8)	10.42085
+(9)	10.80294
+(10)	6.657911
+(11)	13.37397
+(12)	13.0541
+(13)	11.82134
+(14)	8.276632
+(15)	7.764534
+(16)	11.88459
+(17)	10.00733
+(18)	11.4407
+(19)	9.65812
+(20)	11.58857
+(21)	9.930074
+(22)	10.08038
+(23)	9.595825
+(24)	10.46712
+(25)	11.38151
+(26)	11.05079
+(27)	11.67904
+(28)	10.64741
+(29)	8.596929
+(30)	11.90497
+(31)	10.7516
+(32)	11.05982
+(33)	12.24426
+(34)	11.78147
+(35)	12.12792
+(36)	11.53321
+(37)	9.900558
+(38)	10.66248
+(39)	6.584333
+(40)	10.56959
+(41)	8.342343
+(42)	10.92332
+(43)	10.87953
+(44)	10.22974
+(45)	11.10253
+(46)	10.55811
+(47)	10.79414
+(48)	12.42431
+(49)	7.266256
+(50)	11.11993
+(51)	8.652402
+(52)	11.28999
+(53)	12.61671
+(54)	8.965414
+(55)	10.38175
+(56)	10.07394
+(57)	9.440818
+(58)	11.56817
+(59)	10.93515
+(60)	10.65736
+(61)	10.31468
+(62)	10.11002
+(63)	10.00829
+(64)	8.249038
+(65)	9.654445
+(66)	7.366966
+(67)	10.53139
+(68)	8.997621
+(69)	10.88639
+(70)	9.97292
+(71)	10.49561
+(72)	12.29258
+(73)	10.84756
+(74)	11.63773
+(75)	11.14853
+(76)	13.30401
+(77)	7.378016
+(78)	10.16688
+(79)	9.705784
+(80)	10.74289
+(81)	8.569263
+(82)	8.083411
+(83)	11.47871
+(84)	13.69378
+(85)	12.1413
+(86)	9.167327
+(87)	10.26073
+(88)	9.602175
+(89)	10.52993
+(90)	7.909289
+(91)	5.943583
+(92)	12.76051
+(93)	9.411144
+(94)	9.677356
+(95)	10.46067
+(96)	12.20545
+(97)	9.996049
+(98)	9.945699
+(99)	10.22632
+(0)	0.17968
+(1)	0.184166
+(2)	0.156784
+(3)	0.141867
+(0)	Obs STD: 0.0198654
+
+Variable: r_ConstraintModels
+Type: float
+Total Size: 27600 bytes
+            6900 values
+Number of Dimensions: 3
+Dimensions and sizes:	[boot | 100] x [Terms | 3] x [Models | 23]
+Coordinates: 
+            boot: [0..99]
+            Terms: [0..2]
+            Models: [ACCESS-CM2..UKESM1-0-LL]
+Number Of Attributes: 2
+  boot :	0
+  _FillValue :	9.96921e+36
+(0)	$WACCEM/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/Dis_of_pc_and_constrainedGSAT_ssp370_23Models.nc
+
+02.Dis_of_pc1_and_constrainedLocalWarming_Yc1.ncl
+(99,12,13)	1e+20
+(99,12,14)	1e+20
+(99,12,15)	1e+20
+(99,12,16)	1e+20
+(99,12,17)	1e+20
+(99,12,18)	1e+20
+(99,12,19)	1e+20
+(99,12,20)	1e+20
+(99,12,21)	1e+20
+(99,12,22)	1e+20
+(99,12,23)	1e+20
+(99,12,24)	1e+20
+(99,12,25)	1e+20
+(99,12,26)	1e+20
+(99,12,27)	1e+20
+(99,13,0)	1e+20
+(99,13,1)	1e+20
+(99,13,2)	1e+20
+(99,13,3)	1e+20
+(99,13,4)	1e+20
+(99,13,5)	1e+20
+(99,13,6)	1e+20
+(99,13,7)	1e+20
+(99,13,8)	1e+20
+(99,13,9)	1e+20
+(99,13,10)	1e+20
+(99,13,11)	1e+20
+(99,13,12)	1e+20
+(99,13,13)	1e+20
+(99,13,14)	1e+20
+(99,13,15)	1e+20
+(99,13,16)	1e+20
+(99,13,17)	1e+20
+(99,13,18)	1e+20
+(99,13,19)	1e+20
+(99,13,20)	1e+20
+(99,13,21)	1e+20
+(99,13,22)	1e+20
+(99,13,23)	1e+20
+(99,13,24)	1e+20
+(99,13,25)	1e+20
+(99,13,26)	1e+20
+(99,13,27)	1e+20
+(99,14,0)	1e+20
+(99,14,1)	1e+20
+(99,14,2)	1e+20
+(99,14,3)	1e+20
+(99,14,4)	1e+20
+(99,14,5)	1e+20
+(99,14,6)	1e+20
+(99,14,7)	1e+20
+(99,14,8)	1e+20
+(99,14,9)	1e+20
+(99,14,10)	1e+20
+(99,14,11)	1e+20
+(99,14,12)	1e+20
+(99,14,13)	1e+20
+(99,14,14)	1e+20
+(99,14,15)	1e+20
+(99,14,16)	1e+20
+(99,14,17)	1e+20
+(99,14,18)	1e+20
+(99,14,19)	1e+20
+(99,14,20)	1e+20
+(99,14,21)	1e+20
+(99,14,22)	1e+20
+(99,14,23)	1e+20
+(99,14,24)	1e+20
+(99,14,25)	1e+20
+(99,14,26)	1e+20
+(99,14,27)	1e+20
+(99,15,0)	1e+20
+(99,15,1)	1e+20
+(99,15,2)	1e+20
+(99,15,3)	1e+20
+(99,15,4)	1e+20
+(99,15,5)	1e+20
+(99,15,6)	1e+20
+(99,15,7)	1e+20
+(99,15,8)	1e+20
+(99,15,9)	1e+20
+(99,15,10)	1e+20
+(99,15,11)	1e+20
+(99,15,12)	1e+20
+(99,15,13)	1e+20
+(99,15,14)	1e+20
+(99,15,15)	1e+20
+(99,15,16)	1e+20
+(99,15,17)	1e+20
+(99,15,18)	1e+20
+(99,15,19)	1e+20
+(99,15,20)	1e+20
+(99,15,21)	1e+20
+(99,15,22)	1e+20
+(99,15,23)	1e+20
+(99,15,24)	1e+20
+(99,15,25)	1e+20
+(99,15,26)	1e+20
+(99,15,27)	1e+20
+(0)	$WACCEM/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/Dis_of_constrainedLocalWarming_Yc1_ssp370_23Models.nc
+
+03.Dis_of_pc2_and_constrainedLocalWarmingByLocalTrend_Yc2.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp370/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp370/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	ResidualTrend_CanESM5_historical_r26i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r27i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r28i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r29i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r30i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r31i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r32i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r33i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r34i1p1f1 Missing!
+(0)	ResidualTrend_CanESM5_historical_r35i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_GFDL-CM4ssp370
+(0)	ResidualTrend_GISS-E2-1-G_historical_r8i1p1f2 Missing!
+(0)	ResidualTrend_GISS-E2-1-G_historical_r9i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_HadGEM3-GC31-LLssp370
+fatal:Could not create (destination_grid_file.nc)
+warning:FileSetFileOption: invalid file or format
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 1646 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 1831 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 3880 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 4019 in file $NCARG_ROOT/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl
+
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 348 in file /global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Code/07.UncerQualification/01.ForMeanWarming/03.Dis_of_pc2_and_constrainedLocalWarmingByLocalTrend_Yc2.ncl
+
+input in flex scanner failed
+
+04.ConEachRealForInterVarEst/01.CorGSAT_AndLocWarmingByScaling_ForEachReal.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp370/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp370/': Permission denied
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	0.17968
+(1)	0.184166
+(2)	0.156784
+(3)	0.141867
+(0)	Obs STD: 0.0198654
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	ACCESS-CM2Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	ACCESS-ESM1-5Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	AWI-CM-1-1-MRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	BCC-CSM2-MRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	CAMS-CSM1-0Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	GSAT_Trend_CanESM5_historical_r26i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r27i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r28i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r29i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r30i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r31i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r32i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r33i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r34i1p1f1 Missing!
+(0)	GSAT_Trend_CanESM5_historical_r35i1p1f1 Missing!
+(0)	CanESM5Done!
+(0)	
+(0)	r1i1p2f1 Done!
+(0)	r2i1p2f1 Done!
+(0)	r3i1p2f1 Done!
+(0)	CanESM5-CanOEDone!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	CNRM-CM6-1Done!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	CNRM-ESM2-1Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	EC-Earth3Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	GMSAT_EC-Earth3-Veg_ssp370_r2i1p1f1 Missing!
+(0)	GMSAT_EC-Earth3-Veg_ssp370_r4i1p1f1 Missing!
+(0)	EC-Earth3-VegDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	FGOALS-f3-LDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	FGOALS-g3Done!
+(0)	
+(0)	GSAT_Trend_GFDL-CM4_historical_missing Missing!
+(0)	GFDL-CM4Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	GFDL-ESM4Done!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r5i1p1f2 Done!
+(0)	r6i1p1f2 Done!
+(0)	r7i1p1f2 Done!
+(0)	GSAT_Trend_GISS-E2-1-G_historical_r8i1p1f2 Missing!
+(0)	GSAT_Trend_GISS-E2-1-G_historical_r9i1p1f2 Missing!
+(0)	r10i1p1f2 Done!
+(0)	GISS-E2-1-GDone!
+(0)	
+(0)	GSAT_Trend_HadGEM3-GC31-LL_historical_missing Missing!
+(0)	HadGEM3-GC31-LLDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	INM-CM4-8Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	IPSL-CM6A-LRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	r11i1p1f1 Done!
+(0)	r12i1p1f1 Done!
+(0)	r13i1p1f1 Done!
+(0)	r14i1p1f1 Done!
+(0)	r15i1p1f1 Done!
+(0)	r16i1p1f1 Done!
+(0)	r17i1p1f1 Done!
+(0)	r18i1p1f1 Done!
+(0)	r19i1p1f1 Done!
+(0)	r20i1p1f1 Done!
+(0)	r21i1p1f1 Done!
+(0)	r22i1p1f1 Done!
+(0)	r23i1p1f1 Done!
+(0)	r24i1p1f1 Done!
+(0)	r25i1p1f1 Done!
+(0)	r26i1p1f1 Done!
+(0)	r27i1p1f1 Done!
+(0)	r28i1p1f1 Done!
+(0)	r29i1p1f1 Done!
+(0)	r30i1p1f1 Done!
+(0)	MIROC6Done!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	r6i1p1f1 Done!
+(0)	r7i1p1f1 Done!
+(0)	r8i1p1f1 Done!
+(0)	r9i1p1f1 Done!
+(0)	r10i1p1f1 Done!
+(0)	MPI-ESM1-2-LRDone!
+(0)	
+(0)	r1i1p1f1 Done!
+(0)	r2i1p1f1 Done!
+(0)	r3i1p1f1 Done!
+(0)	r4i1p1f1 Done!
+(0)	r5i1p1f1 Done!
+(0)	MRI-ESM2-0Done!
+(0)	
+(0)	r1i1p1f2 Done!
+(0)	r2i1p1f2 Done!
+(0)	r3i1p1f2 Done!
+(0)	r4i1p1f2 Done!
+(0)	r8i1p1f2 Done!
+(0)	UKESM1-0-LLDone!
+(0)	
+(0)	/global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/01.ForMeanWarming/04.ConEachRealForInterVarEst/InterVarInProj_ssp370_23Models.nc
+04.ConEachRealForInterVarEst/02.FurtherCorrectConstrainedWarming_ForEachReal.ncl
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	Warning: ESMF_copy_varcoords: cannot open 'weights_file.nc'.
+(0)	         No coordinate information will be added.
+(0)	Warning: ESMF_copy_varcoords: cannot open 'weights_file.nc'.
+(0)	         No coordinate information will be added.
+fatal:No coordinate variable exists for dimension (lat) in variable (r_HadCRUT4)
+fatal:["Execute.c":8637]:Execute: Error occurred at or near line 177 in file /global/cfs/cdirs/m1867/zmchen/Work/OtherWorks/2020/ProjectionInChina/Code/07.UncerQualification/01.ForMeanWarming/04.ConEachRealForInterVarEst/02.FurtherCorrectConstrainedWarming_ForEachReal.ncl
+
+input in flex scanner failed
+04.ConEachRealForInterVarEst/03.EstInterVar_fromEachLENS_1000times.ncl
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp370/': Permission denied
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	tas_inDifTerms_CanESM5_ssp370_r26i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r27i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r28i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r29i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r30i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r31i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r32i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r33i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r34i1p1f1 Missing!
+(0)	tas_inDifTerms_CanESM5_ssp370_r35i1p1f1 Missing!
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp370/': Permission denied
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp370/': Permission denied
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp370/': Permission denied
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp370/': No such file or directory
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+warning:Dimension (0) has not been defined
+input in flex scanner failed
+(0)	CanESM5
+(0)	PD IV:
+(0)	0.0681579
+(1)	0.0997902
+(2)	0.225733
+(0)	Proj IV:
+(0)	0.0415793
+(1)	0.0397623
+(2)	0.0384904
+(0)	
+(0)	MIROC6
+(0)	PD IV:
+(0)	0.0430124
+(1)	0.0717192
+(2)	0.163287
+(0)	Proj IV:
+(0)	0.022314
+(1)	0.0239816
+(2)	0.0261908
+(0)	
+

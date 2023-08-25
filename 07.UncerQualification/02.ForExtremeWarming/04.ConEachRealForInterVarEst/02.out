@@ -1,0 +1,331 @@
+nohup: ignoring input
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	min=-18.0049   max=1.75702
+fatal:Subscript out of range, error in subscript #0
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp370/': Permission denied
+(0)	ResidualTrend_historical : min=-0.22886   max=1.04994
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp370/': Permission denied
+(0)	ConstrainedWarming_STD_ACCESS-CM2_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_ACCESS-ESM1-5_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_AWI-CM-1-1-MR_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_CAMS-CSM1-0_ssp370_r1i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp370/': No such file or directory
+(0)	ConstrainedWarmingChina_CNRM-CM6-1_ssp370_r2i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-CM6-1_ssp370_r3i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-CM6-1_ssp370_r4i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-CM6-1_ssp370_r5i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-CM6-1_ssp370_r6i1p1f2 Missing!
+(0)	ConstrainedWarming_STD_CNRM-CM6-1_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/CCCma/CanESM5/ssp370/': No such file or directory
+(0)	ConstrainedWarmingChina_CNRM-ESM2-1_ssp370_r2i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-ESM2-1_ssp370_r3i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-ESM2-1_ssp370_r4i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_CNRM-ESM2-1_ssp370_r5i1p1f2 Missing!
+(0)	ConstrainedWarming_STD_CNRM-ESM2-1_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r11i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r12i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r13i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r14i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r15i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r16i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r17i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r18i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r20i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r21i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r22i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r23i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_CanESM5_ssp370_r25i1p1f1 Missing!
+(0)	ConstrainedWarming_STD_CanESM5_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_EC-Earth3_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_EC-Earth3-Veg_ssp370_r2i1p1f1 Missing!
+(0)	ConstrainedWarmingChina_EC-Earth3-Veg_ssp370_r4i1p1f1 Missing!
+(0)	ConstrainedWarming_STD_EC-Earth3-Veg_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_FGOALS-g3_ssp370_r2i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+ls: cannot access '/global/cfs/cdirs/m3522/cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+ls: cannot access '/global/cfs/cdirs/m1867/zmchen/my_data/CMIP6/Raw/ScenarioMIP/NOAA-GFDL/GFDL-CM4/ssp370/': No such file or directory
+(0)	ConstrainedWarmingChina_FGOALS-g3_ssp370_r5i1p1f1 Missing!
+(0)	ConstrainedWarming_STD_FGOALS-g3_ssp370_AllReal Done!
+(0)	ConstrainedWarmingChina_GFDL-CM4_ssp370_missing Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_IPSL-CM6A-LR_ssp370_r3i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_IPSL-CM6A-LR_ssp370_r6i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_IPSL-CM6A-LR_ssp370_r9i1p1f1 Missing!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarmingChina_IPSL-CM6A-LR_ssp370_r14i1p1f1 Missing!
+(0)	ConstrainedWarming_STD_IPSL-CM6A-LR_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_MIROC6_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+(0)	ConstrainedWarming_STD_MRI-ESM2-0_ssp370_AllReal Done!
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+warning:Attempt to reference attribute (_FillValue) which is undefined
+input in flex scanner failed
+(0)	ConstrainedWarmingChina_UKESM1-0-LL_ssp370_r2i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_UKESM1-0-LL_ssp370_r3i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_UKESM1-0-LL_ssp370_r4i1p1f2 Missing!
+(0)	ConstrainedWarmingChina_UKESM1-0-LL_ssp370_r8i1p1f2 Missing!
+(0)	ConstrainedWarming_STD_UKESM1-0-LL_ssp370_AllReal Done!
+(0)	$WACCEM/Work/OtherWorks/2020/ProjectionInChina/Data/07.UncerQualification/02.ForExtremeWarming/04.ConEachRealForInterVarEst/FurtherCorrectConstrainedWarming_ForEachReal_ssp370_18Models.nc
